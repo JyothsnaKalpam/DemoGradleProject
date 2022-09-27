@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-25T16:18:11 IST" name="Default suite" finished-at="2022-09-25T16:18:25 IST" duration-ms="13953">
+  <suite started-at="2022-09-27T17:01:30 IST" name="Default suite" finished-at="2022-09-27T17:01:35 IST" duration-ms="4538">
     <groups>
     </groups>
-    <test started-at="2022-09-25T16:18:11 IST" name="Default test" finished-at="2022-09-25T16:18:25 IST" duration-ms="13953">
-      <class name="DemoGradle.LibraryTest">
-        <test-method signature="basic()[pri:0, instance:DemoGradle.LibraryTest@35aea049]" started-at="2022-09-25T16:18:11 IST" name="basic" finished-at="2022-09-25T16:18:25 IST" duration-ms="13919" status="PASS">
+    <test started-at="2022-09-27T17:01:30 IST" name="Default test" finished-at="2022-09-27T17:01:35 IST" duration-ms="4538">
+      <class name="DemoGradle.Dummy">
+        <test-method signature="basic()[pri:0, instance:DemoGradle.Dummy@35aea049]" started-at="2022-09-27T17:01:30 IST" name="basic" finished-at="2022-09-27T17:01:35 IST" duration-ms="4508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basic -->
-      </class> <!-- DemoGradle.LibraryTest -->
+      </class> <!-- DemoGradle.Dummy -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
